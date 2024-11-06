@@ -1,2 +1,2 @@
 # air-straightener
-STL files for air straighteners for PC Fans
+STL files to 3D print air straighteners for PC Fans
