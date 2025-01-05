@@ -1,5 +1,5 @@
-# air-straightener
-STL files to 3D print air straighteners for PC Fans
+# Air Straighteners for 120mm PC Fans
+STL files to 3D print air straighteners for PC Fans for use in PC Fan Corsi Rosenthall boxes
 
 If in doubt, I recommend the [7mm design](https://github.com/chrisjensen/air-straightener/blob/main/%207mm%20x%20120mm%20air%20straightener.stl), it offers almost the same throw as the 15mm, but half the materials.
 
